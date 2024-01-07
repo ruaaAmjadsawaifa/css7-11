@@ -129,6 +129,7 @@ h3 {
   background-color: aliceblue;
   display: block;
   position: relative;
+  box-shadow:1px 1px 10px rgba(0, 0, 0, 0.368);
 }
 .img_items {
   position: absolute;
